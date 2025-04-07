@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "optional": {
+      "args": [],
+      "command": "uv run --python 3.11 {path/to/main.py}",
+      "env": {}
+    }
+  }
+}
